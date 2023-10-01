@@ -6,11 +6,16 @@ Project of tachometer device for Sieg SX2 Mill/SC2 Lathe (and probably some othe
 
 To make this project you will need just three parts(not counting wiring)
 
-* **Arduino Nano:** 
+* **Arduino Nano:**
+ 
 ![Image](Images/Arduino_Nano.webp "Arduino Nano")
+
 * **TM1367 4-digit 7-segment indicator:**
+
 ![Image](Images/TM1637_Perspective.jpg "TM1367 4-digit 7-segment indicator")
+
 * **Connector:**
+
 ![Image](Images/GX16-7D.jpg "Connector")
 
 ## Pinout
